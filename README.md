@@ -4,6 +4,7 @@
 <hr>
  
 ### About Me:
+
 <h5 style="line-height: 1.6;">
 Aspiring Data Analyst 📊 | Upskilling at Masai School 🚀 | B.Tech in ECE from CVR College of Engineering 🎓
 </br></br>
@@ -13,4 +14,5 @@ To deepen my expertise and stay ahead in the ever-evolving landscape of data ana
 </br></br>
 I am enthusiastic about the new opportunities this advanced training will open up and am looking forward to applying my enhanced skills in data analytics to solve real-world problems. Whether it's through collaboration or innovative projects, I am ready to contribute my expertise and make a significant impact in the field. 🌟💼 Let's connect and see how we can work together to achieve data-driven success! 🤝
 </h5>
+
 <hr>
