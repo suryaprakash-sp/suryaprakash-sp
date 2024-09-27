@@ -16,3 +16,40 @@ I am enthusiastic about the new opportunities this advanced training will open u
 </h5>
 
 <hr>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{hashirsheikh}/count.svg" alt="Hashir's Visitor Count" />
+</p>
+
+<hr>
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/manubolusuryaprakash/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<hr>
+
+### 🛠️ Tech Stack & Working Tools:
+<p>
+<div align="center" style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-%230072C6.svg?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234F5D95.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/selenium-%234B9ED1.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/beautifulsoup-%233C5C5C.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" />
+<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+</p>
+
+<hr>
+
