@@ -27,6 +27,9 @@ I am enthusiastic about the new opportunities this advanced training will open u
   <a href="https://www.linkedin.com/in/manubolusuryaprakash/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+ <a href="mailto:suryaprakash.sp987@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 <hr>
