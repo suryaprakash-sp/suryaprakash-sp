@@ -4,7 +4,7 @@
 <hr>
  
 ### About Me:
-<h5>
+<h5 style="line-height: 1.6;">
 Aspiring Data Analyst 📊 | Upskilling at Masai School 🚀 | B.Tech in ECE from CVR College of Engineering 🎓
 </br></br>
 With a Bachelor's degree in Electronics and Communication Engineering from CVR College of Engineering and two years of professional experience as a Data Analyst, I am deeply passionate about the power of data to drive meaningful insights and business decisions. 🔍📈 My journey in data analytics has been both rewarding and enlightening, fueling my desire to further explore and excel in this dynamic field.
