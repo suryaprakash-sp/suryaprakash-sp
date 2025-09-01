@@ -17,7 +17,7 @@ I am enthusiastic about the new opportunities this advanced training will open u
 
 <hr>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{suryaprakash-sp}/count.svg" alt="Hashir's Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{suryaprakash-sp}/count.svg" alt="Surya's Visitor Count" />
 </p>
 
 <hr>
