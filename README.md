@@ -6,13 +6,21 @@
 ### About Me:
 
 <h5 style="line-height: 1.6;">
-Aspiring Data Analyst 📊 | Upskilling at Masai School 🚀 | B.Tech in ECE from CVR College of Engineering 🎓
-</br></br>
-With a Bachelor's degree in Electronics and Communication Engineering from CVR College of Engineering and two years of professional experience as a Data Analyst, I am deeply passionate about the power of data to drive meaningful insights and business decisions. 🔍📈 My journey in data analytics has been both rewarding and enlightening, fueling my desire to further explore and excel in this dynamic field.
-</br></br>
-To deepen my expertise and stay ahead in the ever-evolving landscape of data analytics, I am currently upskilling at Masai School. This intensive program is providing me with hands-on experience in industry-standard tools and methodologies, including SQL, Python, Excel, and data visualization platforms such as Tableau and Power BI. 📊💻 The curriculum is designed around real-world applications, ensuring I am well-equipped to tackle complex data challenges.
-</br></br>
-I am enthusiastic about the new opportunities this advanced training will open up and am looking forward to applying my enhanced skills in data analytics to solve real-world problems. Whether it's through collaboration or innovative projects, I am ready to contribute my expertise and make a significant impact in the field. 🌟💼 Let's connect and see how we can work together to achieve data-driven success! 🤝
+Data Analyst at Masai School | End‑to‑End Data Workflows | Python, SQL, Metabase & Redash | GenAI‑Boosted Productivity
+
+With a bachelor's degree in Electronics and Communication Engineering from CVR College and close to three years of experience in data analytics, I specialize in turning complex data into actionable insights. Currently working at Masai School, I’ve had the opportunity to architect scalable pipelines, build analytics-ready data systems, and deliver insights that drive operational and strategic decisions.
+
+My journey started with SQL, Python, and Excel — but working hands-on with real-world business teams at Masai accelerated my growth across the stack. From collaborating with cross-functional stakeholders to building full student lifecycle dashboards, I've learned to balance speed, precision, and adaptability.
+
+What I’ve been up to recently:
+
+- Built production-ready pipelines in Python using SQLAlchemy, Pymongo, and Masonite ORM.
+- Integrated data from MySQL, PostgreSQL, Redshift and MongoDB into dashboards on Metabase & Redash.
+- Delivered complex reporting solutions by using GenAI to boost productivity and reduce delivery timelines.
+- Learned version control and collaborated using Git with engineering teams.
+- Diagnosed and fixed data gaps while optimizing query and dashboard performance.
+
+Always learning, always building — let’s connect if you’re working on something data-driven.
 </h5>
 
 <hr>
