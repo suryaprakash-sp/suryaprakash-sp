@@ -1,2 +1,6 @@
 # Editor directories and files
 .idea
+
+# Claude Code
+.claude/
+claude.md
