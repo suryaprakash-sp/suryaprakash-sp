@@ -177,12 +177,20 @@ Personal analytics project demonstrating web scraping and visualization skills:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryaprakash-sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash-sp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/suryaprakash-sp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryaprakash-sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash-sp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<br/><br/>
+</div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-sp&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/suryaprakash-sp)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=suryaprakash-sp&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-sp&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/suryaprakash-sp)
 
 </div>
 
