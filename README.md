@@ -177,18 +177,11 @@ Personal analytics project demonstrating web scraping and visualization skills:
 
 <div align="center">
 
-<a href="https://github.com/suryaprakash-sp">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=suryaprakash-sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=suryaprakash-sp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suryaprakash-sp&theme=tokyonight)](https://github.com/suryaprakash-sp)
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaprakash-sp&theme=tokyonight)](https://github.com/suryaprakash-sp)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-sp&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/suryaprakash-sp)
 
 </div>
 
