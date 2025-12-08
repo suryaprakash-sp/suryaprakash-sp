@@ -176,12 +176,12 @@ Personal analytics project demonstrating web scraping and visualization skills:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="30%" align="center" style="border: none;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="27%" align="center" style="border: none; padding: 0;">
         <img src="https://github-contribution-stats.vercel.app/api/?username=suryaprakash-sp&theme=tokyonight" alt="Contribution Stats" />
       </td>
-      <td width="70%" align="center" style="border: none;">
+      <td width="73%" align="center" style="border: none; padding: 0;">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaprakash-sp&theme=tokyonight" alt="Profile Summary" />
       </td>
     </tr>
