@@ -173,15 +173,14 @@ Personal analytics project demonstrating web scraping and visualization skills:
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=suryaprakash-sp&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/suryaprakash-sp?style=for-the-badge&color=58A6FF&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/suryaprakash-sp?style=for-the-badge&color=58A6FF&labelColor=0D1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suryaprakash-sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash-sp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-sp&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/suryaprakash-sp)
 
