@@ -186,9 +186,9 @@ Personal analytics project demonstrating web scraping and visualization skills:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suryaprakash-sp&theme=tokyonight&hide_border=true)](https://github.com/suryaprakash-sp)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=suryaprakash-sp&theme=tokyonight)](https://github.com/suryaprakash-sp)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-sp&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/suryaprakash-sp)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryaprakash-sp&theme=tokyonight)](https://github.com/suryaprakash-sp)
 
 </div>
 
