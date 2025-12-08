@@ -177,11 +177,11 @@ Personal analytics project demonstrating web scraping and visualization skills:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryaprakash-sp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/suryaprakash-sp)
+![Profile Views](https://komarev.com/ghpvc/?username=suryaprakash-sp&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/suryaprakash-sp?style=for-the-badge&color=58A6FF&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/suryaprakash-sp?style=for-the-badge&color=58A6FF&labelColor=0D1117)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash-sp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)](https://github.com/suryaprakash-sp)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=suryaprakash-sp&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/suryaprakash-sp)
+<br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaprakash-sp&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/suryaprakash-sp)
 
