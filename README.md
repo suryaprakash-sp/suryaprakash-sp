@@ -221,7 +221,7 @@ Personal analytics project demonstrating web scraping and visualization skills:
 <td valign="top" width="50%">
 
 ### Analytics & BI
-- 📈 Dashboard Development (Metabase, Power BI)
+- 📈 Dashboard Development
 - 📊 Data Visualization & Storytelling
 - 🎯 KPI Design & Metric Tracking
 - 📉 Reporting Automation
